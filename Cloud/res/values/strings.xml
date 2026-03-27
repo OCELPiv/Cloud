@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CloudStorage</string>
+    <string name="upload_file">Загрузить файл</string>
+    <string name="download_file">Скачать файл</string>
+    <string name="sync_files">Синхронизировать</string>
+    <string name="error_occurred">Произошла ошибка</string>
+    <string name="success">Успешно</string>
+    <string name="action_settings">Настройки</string>
+</resources>
